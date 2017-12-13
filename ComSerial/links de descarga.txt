@@ -1,0 +1,10 @@
+Links de descarga
+
+virtual serial port driver:
+http://www.filehorse.com/es/descargar-virtual-serial-port-driver/
+
+x86 jdk:
+http://www.oracle.com/technetwork/es/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html
+
+Arduino:
+https://www.arduino.cc/en/main/software
